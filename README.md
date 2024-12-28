@@ -9,7 +9,8 @@
 
 从网盘链接 https://pan.baidu.com/s/1yjCV9hIBEjyykSP7pfsF7A?pwd=3mg3 （提取码: 3mg3）下载数据集文件，放在根目录下，代码即可运行。
 
+代码运行流程如下：
+
+![异步时序图](img/异步时序图.png)
+
 有相关问题可联系作者：Wanglian7@outlook.com
-
-
-
